@@ -1,4 +1,3 @@
-# manciki_first_repo
+# ITEH Laboratory Exercises
 
-Hi there! Manciki is finally here!
-There will be some cool stuff here! Stay tuned!
+Hi! Here you will be able to see all materials from the ITEH course. This project is under construction.
